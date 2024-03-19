@@ -1,0 +1,19 @@
+.navbar-main-div {
+    background-color: rgb(75, 75, 238);
+    padding-left: 30%;
+    padding-right: 30%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+
+.button-container {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    color: #ffffff;
+}
+
+.button:hover {
+    color: black;
+    font-weight: 500;
+}

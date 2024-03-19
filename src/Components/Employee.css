@@ -1,0 +1,16 @@
+.employee-main-div {
+    max-width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.employee-card-container {
+    padding: 20px;
+}
+
+.action-icon a {
+    font-size: large;
+    padding: 10px;
+}
